@@ -2,7 +2,7 @@
 
 🏢 Lead Application Engineer @ Ansys  
 📡 RF/Microwave Systems | 🧠 AI/ML in Electromagnetics | ☁️ Cloud & HPC Simulation |📡 Deep Learning for RF/Microwave
-📍 San Diego, CA | 🎯 Applied AI for Radar, Wireless, and Digital Engineering
+| 🎯 Applied AI for Radar, Wireless, and Digital Engineering |📍 San Diego, CA
 
 ---
 
