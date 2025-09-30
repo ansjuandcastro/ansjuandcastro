@@ -44,7 +44,7 @@ Developed a complete radar AI pipeline using synthetic Range-Doppler data:
 ---
 
 ## 📫 Connect  
-- [LinkedIn](https://www.linkedin.com/in/juandcastro)  
+- [LinkedIn](https://www.linkedin.com/in/juanddcastro)  
 - **Email**: juan.castro@ansys.com  
 - **GitHub Radar Perception Repo**: *coming soon*  
 
