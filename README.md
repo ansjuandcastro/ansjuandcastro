@@ -22,8 +22,8 @@ Developed a complete radar AI pipeline using synthetic Range-Doppler data:
 - Deployment-ready on Jetson, FPGA, and mission platforms.  
 
 **Benchmarks**  
-- Models: ResNet18, AlexNet, EfficientNet, ResNet50.  
-- Best performer: ResNet18 — 99.2% accuracy (centered) / 96.2% F1 (cropped).  
+- Models tested: ResNet18, AlexNet, EfficientNet, ResNet50  
+- Best: ResNet18 → 99.2% accuracy (centered) / 96.2% F1 (cropped)  
 
 ---
 
@@ -51,4 +51,3 @@ Developed a complete radar AI pipeline using synthetic Range-Doppler data:
 ---
 
 > “Bringing AI to the invisible spectrum — from RF signals to radar intelligence.”  
-> — Juan D. Castro
