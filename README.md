@@ -39,7 +39,7 @@ Developed a complete radar AI pipeline using synthetic Range-Doppler data:
 - **Simulation & Tools**: Ansys HFSS, STK, RF Channel Modeler, Icepak.  
 - **AI/ML**: PyTorch, TensorFlow, Keras, YOLOv8, SimCLR, LLMs.  
 - **Programming**: Python, C++, MATLAB.  
-- **Cloud/HPC**: AWS, Azure, Ansys Cloud, hybrid HPC.  
+- **Cloud/HPC**: AWS, Azure, Ansys Cloud Solutions, hybrid HPC.  
 
 ---
 
