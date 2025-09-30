@@ -1,63 +1,52 @@
-# 👋 Hi, I’m Juan D. Castro
-
-🏢 Lead Application Engineer @ Ansys  
-📡 RF/Microwave Systems | 🧠 AI/ML in Electromagnetics | ☁️ Cloud & HPC Simulation |📡 Deep Learning for RF/Microwave
-| 🎯 Applied AI for Radar, Wireless, and Digital Engineering |📍 San Diego, CA
+# Hi, I’m Juan D. Castro, Ph.D.  
+**Lead Application Engineer @ Synopsys (formerly Ansys)**  
+RF/Microwave Systems • AI/ML in Electromagnetics • Cloud & HPC Simulation  
 
 ---
 
-## 🔧 About Me
+## 🔧 About Me  
+I am a Lead Application Engineer at Synopsys, working at the intersection of **RF/Microwave Engineering, Artificial Intelligence, and Cloud-Scale Simulation**.  
 
-I’m a Lead Application Engineer at **Synopsys**, working at the intersection of **RF/Microwave Engineering**, **Artificial Intelligence**, and **Cloud-Scale Simulation** to solve complex challenges in wireless design, radar perception, and digital engineering.
+My work focuses on building intelligent radar systems, physics-informed AI models, and scalable simulation workflows that accelerate innovation in wireless design, radar perception, and digital engineering.  
 
-I support high-tech clients across North America—including aerospace, defense, automotive, and wireless—by integrating:
-
-- 📡 **Electromagnetic simulation platforms** (HFSS, STK, RFCM, AEDT Icepak)  
-- 🧠 **AI/ML workflows** (e.g., PyTorch, SimCLR, YOLO) for RF perception and radar intelligence  
-- ☁️ **Scalable cloud/HPC pipelines** (AWS, Azure, Ansys Cloud) for high-fidelity, real-time EM simulation
-
-My focus is on building intelligent radar systems, signal-aware design frameworks, and physics-informed AI models that accelerate innovation from digital prototype to edge deployment.
+I collaborate with leading technology companies in aerospace, defense, automotive, and wireless communications to deliver **solutions that combine electromagnetic simulation, AI/ML pipelines, and cloud/HPC scale-out**.  
 
 ---
 
-## 📌 Highlight Project: Radar Perception with Project LOCH NESS
+## 📌 Highlight Project: Project LOCH NESS – Radar Perception  
+Developed a complete radar AI pipeline using synthetic Range-Doppler data:  
+- Multi-class target detection (aircraft, ground vehicles, helicopters).  
+- Self-supervised learning with contrastive pretraining (SimCLR).  
+- Sliding-window classification with softmax heatmaps and bounding boxes.  
+- Real-time inference on a 4-GPU PyTorch stack.  
+- Deployment-ready on Jetson, FPGA, and mission platforms.  
 
-Developed a full radar AI pipeline using synthetic Range-Doppler radar data from [Project LOCH NESS](https://www.ansys.com/campaigns/project-loch-ness), enabling:
-- 🎯 Multi-class target detection (aircraft, ground vehicles, helicopters)
-- 🔍 Self-supervised learning + contrastive pretraining (SimCLR)
-- 🔗 Sliding-window classification → softmax heatmaps → bounding boxes
-- ⚡ Real-time inference on 4-GPU PyTorch stack (v2.1)
-- 📦 Modular deployment on Jetson, FPGA, and mission platforms
-
-🧪 Models benchmarked: **ResNet18**, **AlexNet**, **EfficientNet**, **ResNet50**  
-🏁 Best performer: **ResNet18** — 99.2% Acc (centered) / 96.2% F1 (cropped)
-
----
-
-## 💡 Areas of Focus
-
-- 📡 RF & Antenna Design for 5G/6G, IoT, ADAS, Aerospace
-- 🧠 AI/ML for Radar, Signal Classification, and Digital Twins
-- ☁️ Simulation @ Scale — Cloud-native + HPC for RF workflows
-- 📊 Physics-informed ML, Generative AI, and Scene-Aware Radar Inference
+**Benchmarks**  
+- Models: ResNet18, AlexNet, EfficientNet, ResNet50.  
+- Best performer: ResNet18 — 99.2% accuracy (centered) / 96.2% F1 (cropped).  
 
 ---
 
-## 🧰 Core Technologies
-
-**Simulation & Tools**: Ansys HFSS, STK, RF Channel Modeler, Icepak  
-**AI/ML**: PyTorch, TensorFlow, Keras, SimCLR, YOLOv8, LLMs  
-**Programming**: Python, C++, MATLAB for AI + electromagnetics  
-**Cloud/HPC**: AWS, Azure, hybrid HPC + Ansys Cloud  
-**AI Strategy**: Trained at Wharton AI for Business + DeepLearning.AI  
+## 🎯 Areas of Focus  
+- RF & Antenna Design for 5G/6G, IoT, ADAS, and Aerospace.  
+- AI/ML for Radar Perception, Signal Classification, and Digital Twins.  
+- Cloud-native HPC for high-fidelity electromagnetic simulation.  
+- Physics-informed Machine Learning and Generative AI.  
 
 ---
 
-## 📫 Let’s Connect
+## 🧰 Core Technologies  
+- **Simulation & Tools**: Ansys HFSS, STK, RF Channel Modeler, Icepak.  
+- **AI/ML**: PyTorch, TensorFlow, Keras, YOLOv8, SimCLR, LLMs.  
+- **Programming**: Python, C++, MATLAB.  
+- **Cloud/HPC**: AWS, Azure, Ansys Cloud, hybrid HPC.  
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/juanddcastro)
-- 📬 Email: juan.castro@ansys.com
-- 🛰️ GitHub Radar Perception Repo: *coming soon*
+---
+
+## 📫 Connect  
+- [LinkedIn](https://www.linkedin.com/in/juandcastro)  
+- **Email**: juan.castro@ansys.com  
+- **GitHub Radar Perception Repo**: *coming soon*  
 
 ---
 
