@@ -8,7 +8,7 @@
 
 ## 🔧 About Me
 
-I’m a Lead Application Engineer at **Ansys**, working at the intersection of **RF/Microwave Engineering**, **Artificial Intelligence**, and **Cloud-Scale Simulation** to solve complex challenges in wireless design, radar perception, and digital engineering.
+I’m a Lead Application Engineer at **Synopsys**, working at the intersection of **RF/Microwave Engineering**, **Artificial Intelligence**, and **Cloud-Scale Simulation** to solve complex challenges in wireless design, radar perception, and digital engineering.
 
 I support high-tech clients across North America—including aerospace, defense, automotive, and wireless—by integrating:
 
