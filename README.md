@@ -1,5 +1,5 @@
 # Hi, I’m Juan D. Castro, Ph.D.  
-**Lead Application Engineer @ Synopsys (formerly Ansys)**  
+**Sr. Staff Applications Engineer @ Synopsys (formerly Ansys)**  
 RF/Microwave Systems • AI/ML in Electromagnetics • Cloud & HPC Simulation  
 
 ---
