@@ -4,7 +4,7 @@ RF/Microwave Systems • AI/ML in Electromagnetics • Cloud & HPC Simulation
 
 ---
 
-## 🔧 About Me  
+## About Me  
 I am a Lead Application Engineer at Synopsys, working at the intersection of **RF/Microwave Engineering, Artificial Intelligence, and Cloud-Scale Simulation**.  
 
 My work focuses on building intelligent radar systems, physics-informed AI models, and scalable simulation workflows that accelerate innovation in wireless design, radar perception, and digital engineering.  
@@ -13,7 +13,7 @@ I collaborate with leading technology companies in aerospace, defense, automotiv
 
 ---
 
-## 📌 Highlight Project: Project LOCH NESS – Radar Perception  
+## Highlight Project: Project LOCH NESS – Radar Perception  
 Developed a complete radar AI pipeline using synthetic Range-Doppler data:  
 - Multi-class target detection (aircraft, ground vehicles, helicopters).  
 - Self-supervised learning with contrastive pretraining (SimCLR).  
@@ -27,7 +27,7 @@ Developed a complete radar AI pipeline using synthetic Range-Doppler data:
 
 ---
 
-## 🎯 Areas of Focus  
+## Areas of Focus  
 - RF & Antenna Design for 5G/6G, IoT, ADAS, and Aerospace.  
 - AI/ML for Radar Perception, Signal Classification, and Digital Twins.  
 - Cloud-native HPC for high-fidelity electromagnetic simulation.  
@@ -35,7 +35,7 @@ Developed a complete radar AI pipeline using synthetic Range-Doppler data:
 
 ---
 
-## 🧰 Core Technologies  
+## Core Technologies  
 - **Simulation & Tools**: Ansys HFSS, STK, RF Channel Modeler, Icepak.  
 - **AI/ML**: PyTorch, TensorFlow, Keras, YOLOv8, SimCLR, LLMs.  
 - **Programming**: Python, C++, MATLAB.  
@@ -43,7 +43,7 @@ Developed a complete radar AI pipeline using synthetic Range-Doppler data:
 
 ---
 
-## 📫 Connect  
+## Connect  
 - [LinkedIn](https://www.linkedin.com/in/juanddcastro)  
 - **Email**: juan.castro@ansys.com  
 - **GitHub Radar Perception Repo**: *coming soon*  
