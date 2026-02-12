@@ -5,7 +5,7 @@ RF/Microwave Systems • AI/ML in Electromagnetics • Cloud & HPC Simulation
 ---
 
 ## About Me  
-I am a Lead Application Engineer at Synopsys, working at the intersection of **RF/Microwave Engineering, Artificial Intelligence, and Cloud-Scale Simulation**.  
+I am a Sr. Staff Applications Engineer at Synopsys, working at the intersection of **RF/Microwave Engineering, Artificial Intelligence, and Cloud-Scale Simulation**.  
 
 My work focuses on building intelligent radar systems, physics-informed AI models, and scalable simulation workflows that accelerate innovation in wireless design, radar perception, and digital engineering.  
 
